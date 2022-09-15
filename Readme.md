@@ -1,17 +1,17 @@
 # Invoice Processing
 An automatic Invoice processing system that performs OCR using tesseract and classifies the retrieved text using Bi-Directional LSTM which uses ELMO Embedding into categories like Company Name, Address, Date, and Total, this result is then stored in a structured format.
 
-* [Results]()
-    * [Training Graphs]()
-    * [Classification Report]()
-    * [Result Snippet]()
-* [Technology Used]()
-* [Pachage]() 
-* [Models Used]()
+* [Results](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Readme.md#results)
+    * [Training Graphs](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Readme.md#training-graphs)
+    * [Classification Report](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Readme.md#classification-report)
+    * [Result Snippet](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Readme.md#result-snippets)
+* [Technology Used](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Readme.md#language-used-)
+* [Package](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Readme.md#packageslibrary-used) 
+* [Models Used](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Readme.md#elmo-model-used)
 
 ## Results
 ### Training Graphs
-#### Accuract
+#### Accuracy
 ![](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Figures/Accuracy.png?raw=true)
 #### Loss
 ![](https://github.com/shivanshu1641/Invoice-Processing/blob/main/Figures/Loss.png?raw=true)
